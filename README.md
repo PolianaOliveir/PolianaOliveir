@@ -16,8 +16,12 @@
 
 ![PolianaOliveir](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&hide_progress=true)]
 
-![Profile views](https://gpvc.arturio.dev/[PolianaOliveir])
+<h1>OI, EU MIGREI!</h1>🚀
 
+<h3>Em busca de novos desafios para a vida profissional, após lecionar por mais de 10 anos, resolvi mudar.
+    E diante desse turbilhão de novos conceitos e identidade profissional, estou aprendendo  e dando ênfase em Javascript, dentre outras ferramentas.
+    Almejando oportunidade no mundo da tecnologia como programadora hoje me coloco à disposiçã do mercado de trabalho.
+    welcome to my world!!</h3>
 
 
 

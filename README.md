@@ -1,4 +1,4 @@
-### Olá, meu nome é Poliana 👋
+### Olá, meu nome é Poliana 👋💻💡
 
 ##Tecnologias que uso:
 
@@ -14,10 +14,7 @@
 
 ![Poliana Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolianaOliveir&show_icons=true&theme=dracula)
 
-![PolianaOliveir](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&hide_progress=true)
-[
-![image](https://github.com/PolianaOliveir/PolianaOliveir/assets/117494304/5cceaf97-0494-4a5f-a562-6037ce145975)
-](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png
+![PolianaOliveir](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&hide_progress=true)]
 
 
 

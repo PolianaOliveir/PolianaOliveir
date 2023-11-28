@@ -8,7 +8,12 @@
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 </div><br>
-<p> Em constante aprendizado alguém que se esforça e se dedica para o que quer!!</p>
+<p> Em constante aprendizado, alguém que se esforça e se dedica para o que quer!!</p>
+
+![Poliana Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolianaOliveir&show_icons=true&theme=dracula)
+
+[![Poliana Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&layout=pie)](https://github.com/PolianaOliveir/github-readme-stats)
+
 
 
 

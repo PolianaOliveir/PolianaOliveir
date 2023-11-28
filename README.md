@@ -16,7 +16,7 @@
 
 ![PolianaOliveir](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&hide_progress=true)]
 
-<h1>OI, EU MIGREI!</h1>🚀
+<h1>OI, EU MIGREI!</h1>🚀🚀🚀🚀
 
 <h3>Em busca de novos desafios para a vida profissional, após lecionar por mais de 10 anos, resolvi mudar.
     E diante desse turbilhão de novos conceitos e identidade profissional, estou aprendendo  e dando ênfase em Javascript, dentre outras ferramentas.

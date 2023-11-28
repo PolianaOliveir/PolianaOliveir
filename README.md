@@ -16,6 +16,8 @@
 
 ![PolianaOliveir](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&hide_progress=true)]
 
+![Profile views](https://gpvc.arturio.dev/[PolianaOliveir])
+
 
 
 

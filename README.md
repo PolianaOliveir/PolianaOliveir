@@ -14,8 +14,7 @@
 
 ![Poliana Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolianaOliveir&show_icons=true&theme=dracula)
 
-[![Poliana WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WakaTime)](https://github.com/WakaTime/github-readme-stats)
-
+![PolianaOliveir](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&hide_progress=true)
 
 
 

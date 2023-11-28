@@ -16,5 +16,9 @@
 
 ![PolianaOliveir](https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaOliveir&hide_progress=true)
 
+![image](https://github.com/PolianaOliveir/PolianaOliveir/assets/117494304/5cceaf97-0494-4a5f-a562-6037ce145975)
+
+
+
 
 
